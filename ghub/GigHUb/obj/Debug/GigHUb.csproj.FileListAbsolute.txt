@@ -122,3 +122,4 @@ C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.Migrations.Init
 C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.csproj.GenerateResource.cache
 C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.Migrations.createGigTable.resources
 C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.Migrations.OverrideConventionsForGigAndGenre.resources
+C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.Migrations.PopulateGenreTable.resources
