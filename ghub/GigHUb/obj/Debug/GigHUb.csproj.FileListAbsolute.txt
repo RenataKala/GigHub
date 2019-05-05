@@ -120,3 +120,5 @@ C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.dll
 C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.pdb
 C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.Migrations.InitialModel.resources
 C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.Migrations.createGigTable.resources
+C:\Users\Home\Desktop\gitlab\GigHub\ghub\GigHUb\obj\Debug\GigHUb.Migrations.OverrideConventionsForGigAndGenre.resources
